@@ -8,33 +8,27 @@
 |_| |_|\___/|_|\___/ \__,_|___/
 ```
 
-## 🏴 CTF Write-ups
 
-A curated collection of my CTF solutions, challenges, and walkthroughs.  
-I focus on **TryHackMe**, **Hack The Box**, and private CTF events.
 
-| Challenge | Platform | Category | Write-up |
-|-----------|----------|----------|----------|
-| Example 1 | THM      | Web      | [Write-up](writeups/example1.md) |
-| Example 2 | HTB      | Pwn      | [Write-up](writeups/example2.md) |
+
 
 ---
 
 ## 🎯 Current Focus
-- Mastering **Web Exploitation** and **Privilege Escalation**
-- Building custom **Pentest Tools** in Python & Bash
+- Mastering **Digital Forencis** and **Networking**
+- Building custom **Networking Tools** in Python & Bash
 - Collecting **digital trophies** from CTF platforms
 
 ---
 
 ## 🛠 Skills
 ```
-[██████████████]  Networking
-[████████████  ]  Web Exploitation
-[██████████    ]  Reverse Engineering
-[████████      ]  Cryptography
-[█████████████ ]  Linux & Bash
-[███████████   ]  Python Scripting
+[██]  Networking
+[██]  Web Exploitation
+[    ]  Reverse Engineering
+[████    ]  Cryptography
+[████]  Linux & Bash
+[███  ]  Python Scripting
 ```
 
 ---
@@ -46,9 +40,8 @@ I focus on **TryHackMe**, **Hack The Box**, and private CTF events.
 ---
 
 ## 📬 Contact
-- **GitHub**: [github.com/YourUsername](https://github.com/YourUsername)
+- **GitHub**: [github.com/YourUsername](https://github.com/H0kusu)
 - **LinkedIn**: [linkedin.com/in/YourUsername](https://linkedin.com/in/YourUsername)
-- **Twitter**: [twitter.com/YourUsername](https://twitter.com/YourUsername)
 
 ---
 *_"Hack the planet!"_*

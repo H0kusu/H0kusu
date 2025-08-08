@@ -27,8 +27,8 @@
 [██]  Web Exploitation
 [    ]  Reverse Engineering
 [████    ]  Cryptography
-[████]  Linux & Bash
-[███  ]  Python Scripting
+[█]  Linux & Bash
+[█ ]  Python Scripting
 ```
 
 ---

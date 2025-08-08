@@ -9,33 +9,12 @@
 ```
 
 
-
-
-
 ---
 
 ## 🎯 Current Focus
 - Mastering **Digital Forencis** and **Cyber Security**
 - Building custom **Tools** in Python & Bash
 - Collecting **digital trophies** from CTF platforms
-
----
-
-## 🛠 Skills
-```
-[██]  Networking
-[██]  Web Exploitation
-[    ]  Reverse Engineering
-[████    ]  Cryptography
-[█]  Linux & Bash
-[█ ]  Python Scripting
-```
-
----
-
-## 📛 Badges
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YourTHMUsername.png)
-
 
 ---
 

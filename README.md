@@ -40,8 +40,8 @@
 ---
 
 ## 📬 Contact
-- **GitHub**: [github.com/YourUsername](https://github.com/H0kusu)
-- **LinkedIn**: [linkedin.com/in/YourUsername](https://linkedin.com/in/YourUsername)
+- **GitHub**: (https://github.com/H0kusu)
+- **LinkedIn**: (https://linkedin.com/in/YourUsername)
 
 ---
 *_"Hack the planet!"_*

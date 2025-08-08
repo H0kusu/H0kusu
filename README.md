@@ -15,8 +15,8 @@
 ---
 
 ## 🎯 Current Focus
-- Mastering **Digital Forencis** and **Networking**
-- Building custom **Networking Tools** in Python & Bash
+- Mastering **Digital Forencis** and **Cyber Security**
+- Building custom **Tools** in Python & Bash
 - Collecting **digital trophies** from CTF platforms
 
 ---
@@ -35,7 +35,7 @@
 
 ## 📛 Badges
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YourTHMUsername.png)
-![HackTheBox](https://www.hackthebox.com/badge/image/YourHTBID)
+
 
 ---
 
